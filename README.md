@@ -10,9 +10,8 @@ Meu nome é Lucas Nascimento Silva
 
 00001107841203sp@aluno.educacao.sp.gov.br
 
-@LucasNascimentoSilva
-
-![descrição do GIF](link GIF do Tenor)
+@LucasNascimentoSilva 
+![](https://media.tenor.com/F_x67mGv9zwAAAAi/spider-man.gif)
 
 
 
